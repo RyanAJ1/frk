@@ -1,0 +1,67 @@
+body {
+    background: #1D1B1B;
+    }
+
+    
+.frk-1 {
+    color: aliceblue;
+    text-align: center;
+}
+.frk-2 {
+
+    text-align: center;
+}
+.frk-stt {
+    background-color: #ff6600;
+    height: 40px;
+    width: 70px;
+    border-radius: 20px;
+    margin: auto;
+}
+.get {
+    border-radius: 20px;
+    background-color: #ff6600;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    height: 40px;
+    width: 100px;
+    display: block;
+    margin: auto;
+    font-weight: bolder;
+    cursor: pointer;
+}        
+.get:hover {
+    opacity: 0.75 ;
+    transition: 0.5s;
+}
+.crd {
+    color: white;
+    text-align: center;
+}
+.fru { 
+    color:aliceblue;
+    text-align: center;
+    background: none;
+}
+.swt {
+    width: 311px;
+    height: 183px;
+    border-radius: 25px;
+    background: rgba(217, 217, 217, 0.10);
+    box-shadow: 16.467px -16.467px 16.467px 0px rgba(165, 165, 165, 0.10) inset, -16.467px 16.467px 16.467px 0px rgba(255, 255, 255, 0.10) inset;
+    backdrop-filter: blur(16.46666717529297px);
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+.srj {
+    
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+    
+}
+    
